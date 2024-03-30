@@ -1,0 +1,2 @@
+# assignment3 report
+I created a interactive quiz website with 10 questions, a 10s timer and a progress bar to count the numbers of question. The wrong and right questions have been highlighted for the user to know, and there are interactive buttons to restart or come to the next question. There are also grade when user finish the test. The hardest thing I found when coding this is the javascript, I have to code a lot of functions and have to refer to a lot of example source:(. I am pretty bad at javascript so to code a complicated function like this is kinda hard for me.
